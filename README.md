@@ -17,7 +17,7 @@ Watch more Website Template in my Website.
 
 **Live Demo** - https://codecraft-beta.github.io/Interior-Design-Furniture/
 
-**Website Video** - https://youtu.be/Ak19YiR2bBI
+**Website** - https://designcraft.odoo.com/interior-design
 
 # CodeCraft-Beta
 
