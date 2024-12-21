@@ -19,7 +19,7 @@ Watch more Website Template in my Website.
 
 **Website Video** - https://youtu.be/rALrxLYt310
 
-**Website View** - https://designcraft.odoo.com/interior-design
+**Website View** - https://www.codecrafts.site/interior-design
 
 # CodeCraft-Beta
 
@@ -45,7 +45,7 @@ Thankyou.
 
 **TikTok** - https://www.tiktok.com/@codecraft147
 
-**Website** - https://designcraft.odoo.com/
+**Website** - https://www.codecrafts.site/
 
 # Introduction
 
